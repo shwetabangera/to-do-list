@@ -1,6 +1,6 @@
 # To-do-list
 
-# Live demo:
+# Live demo:https://shwetabangera.github.io/to-do-list/
 To-do lists don't need to be complicated—plenty of people use a pen and paper for the job without any problem. And yet a new to-do list app seems to come out every day. Why? Because keeping track of your tasks is an intensely personal thing, and people will reject anything that doesn't feel right pretty much instantly. That makes it hard to find the right ones.
 Todoist helps for balancing power and simplicity.
 Make it fast to add and organize tasks- Ideally, a task is added and categorized in a couple taps or keystrokes.
