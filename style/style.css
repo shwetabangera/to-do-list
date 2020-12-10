@@ -1,7 +1,7 @@
 html {
 	box-sizing: border-box;
-	background-color: #ff9a00;
-	font-family: "Times New Roman", Times, serif;
+	background-color: #e4b570;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 *,
@@ -11,11 +11,6 @@ html {
 	margin: 0;
 	padding: 0;
 }
-
-body {
-	font-family: Arial, Helvetica, sans-serif;
-}
-
 .container {
 	width: 100%;
 	max-width: 500px;
@@ -110,8 +105,8 @@ form {
 }
 input[type="text"] {
 	width: 100%;
-	padding: 10px;
 	border-radius: 4px;
+	padding: 10px;
 	border: 3px solid rgb(228, 50, 219);
 }
 .empty-state {
